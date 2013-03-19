@@ -20,8 +20,8 @@
 
 #define APP_MAJOR_VERSION		1
 #define APP_MINOR_VERSION		4
-#define APP_REVISION			5
+#define APP_REVISION			6
 
-#define STRING_VERSION				L"1.4.5"
-#define STRING_VERSION_RESOURCES	"1.4.5.0"
+#define STRING_VERSION				L"1.4.6"
+#define STRING_VERSION_RESOURCES	"1.4.6.0"
 
